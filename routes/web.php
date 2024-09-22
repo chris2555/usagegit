@@ -7,4 +7,3 @@ Route::get('/', function () {
 });
 
 
-Route::resource('users', 'UsersController');
